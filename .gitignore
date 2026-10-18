@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+data/responses/
+data/*.npy
+.env
+.DS_Store
